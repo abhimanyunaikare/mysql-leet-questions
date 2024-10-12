@@ -23,6 +23,7 @@ INSERT INTO ActorDirector (actor_id, director_id, timestamp) VALUES
 -- +-------------+-------------+
 -- | 1           | 1           |
 
+
 -- The only pair is (1, 1) where they cooperated exactly 3 times.
 
 -- SOLUTION --
